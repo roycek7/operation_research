@@ -3,7 +3,7 @@
 """
 Created on Wed Mar 26 12:21:12 2020
 
-@author: s4625266
+@author: royce
 """
 from gurobipy import *
 
