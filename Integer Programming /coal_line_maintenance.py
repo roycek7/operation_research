@@ -1,5 +1,5 @@
 """
-Tutorial 7 – Coal Line Maintenance
+Coal Line Maintenance
 Throughput of coal from mine to port to ship is a critical issue for Australia’s largest coal systems. Press reports of
 huge queues of ships waiting to be loaded are common and these queues are expensive for the industry. A typical but
 simple diagram for a coal system is shown below.
